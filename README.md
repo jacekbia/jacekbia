@@ -1,4 +1,4 @@
-<table width="100%"><tr><td  bgcolor="#f0e080">
+<table width="100%" align="center"><tr><td  bgcolor="#f0e080">
 <h1 align="center">Witaj.</h1>
 
 <h3 align="left">Languages and Tools:</h3>
